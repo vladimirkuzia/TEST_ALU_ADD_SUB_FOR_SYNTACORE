@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1708278317" />
+    <testcase name="test_alu_add" classname="test_src1_pipe_ialu" file="/home/IALU_ADD_SUB_TEST__COCOTB/test_src1_pipe_ialu.py" lineno="10" time="0.007544755935668945" sim_time_ns="12.001" ratio_time="1590.6412483488702" />
+    <testcase name="test_alu_sub" classname="test_src1_pipe_ialu" file="/home/IALU_ADD_SUB_TEST__COCOTB/test_src1_pipe_ialu.py" lineno="53" time="0.007621049880981445" sim_time_ns="15.001" ratio_time="1968.3639700922884" />
+  </testsuite>
+</testsuites>
